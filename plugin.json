@@ -1,0 +1,44 @@
+{
+  "name": "siyuan-plugin-delete-blockref-block",
+  "author": "frostime",
+  "url": "https://github.com/siyuan-note/siyuan-plugin-delete-blockref-block",
+  "version": "0.3.6",
+  "minAppVersion": "3.0.12",
+  "backends": [
+    "windows",
+    "linux",
+    "darwin",
+    "docker",
+    "ios",
+    "android"
+  ],
+  "frontends": [
+    "desktop",
+    "mobile",
+    "browser-desktop",
+    "browser-mobile",
+    "desktop-window"
+  ],
+  "displayName": {
+    "en_US": "删除块引同时删除块",
+    "zh_CN": "删除块引同时删除块"
+  },
+  "description": {
+    "en_US": "",
+    "zh_CN": "删除块引同时删除块"
+  },
+  "readme": {
+    "en_US": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "custom": [
+      ""
+    ]
+  },
+  "keywords": [
+    "plugin",
+    "sample",
+    "插件样例"
+  ]
+}
