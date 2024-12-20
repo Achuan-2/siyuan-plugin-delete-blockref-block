@@ -1,8 +1,8 @@
 {
   "name": "siyuan-plugin-delete-blockref-block",
-  "author": "frostime",
-  "url": "https://github.com/siyuan-note/siyuan-plugin-delete-blockref-block",
-  "version": "0.3.6",
+  "author": "Achuan-2",
+  "url": "https://github.com/Achuan-2/siyuan-plugin-delete-blockref-block",
+  "version": "0.0.1",
   "minAppVersion": "3.0.12",
   "backends": [
     "windows",
@@ -20,12 +20,12 @@
     "desktop-window"
   ],
   "displayName": {
-    "en_US": "删除块引同时删除块",
-    "zh_CN": "删除块引同时删除块"
+    "en_US": "Delete blockref and  block",
+    "zh_CN": "同时删除块引与引用的块"
   },
   "description": {
-    "en_US": "",
-    "zh_CN": "删除块引同时删除块"
+    "en_US": "Delete blockref and  block",
+    "zh_CN": "同时删除块引与引用的块"
   },
   "readme": {
     "en_US": "README.md",
@@ -33,12 +33,11 @@
   },
   "funding": {
     "custom": [
-      ""
+      "https://www.yuque.com/achuan-2"
     ]
   },
   "keywords": [
-    "plugin",
-    "sample",
-    "插件样例"
+    "删除块引",
+    "delete blockref"
   ]
 }

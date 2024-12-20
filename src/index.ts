@@ -56,7 +56,7 @@ export default class PluginSample extends Plugin {
             if (dataId || (dataHref && dataHref.startsWith("siyuan://"))) {
                 detail.menu.addItem({
                     icon: "iconTrashcan",
-                    label: "删除块引同时删除块",
+                    label: this.i18n.delete,
                     click: async () => {
                         // Handle legacy format
                         let id;
